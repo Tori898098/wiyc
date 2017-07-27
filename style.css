@@ -52,11 +52,14 @@
 }
 
 
-body{
+#indexbody{
     background-image:url("https://s-media-cache-ak0.pinimg.com/originals/fc/b6/27/fcb62782d06f8458c3e4fdb1b913ea02.jpg");
     font-size: 150%;
   }
+#clothingbody{
+  background-image: url("watercolor.jpg");
 
+}
 
 
 
@@ -80,4 +83,10 @@ margin-right: -20px;
   border: 15px solid pink;
   padding: 15px;
   margin: 15px;
+}
+
+
+
+#casualbody{
+  backgrond-image:url("https://s-media-cache-ak0.pinimg.com/originals/6a/75/38/6a7538a9118f40e147ec2b54a3dc775c.jpg")
 }
